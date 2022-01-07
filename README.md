@@ -1,1 +1,1 @@
-1
+1. redux 와 middle ware 의 사용을 위한 스터디
