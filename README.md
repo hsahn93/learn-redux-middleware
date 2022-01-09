@@ -5,3 +5,7 @@
 3. modules DIR에 index.js를 만들어 combineReducer의 작업을 진행
 
 4. 프레젠테이션 컴포넌트인 counter를 제작
+
+5. 컨테이너를 해당하는 counterContainer 컴포넌트를 제작함.
+
+6. app.js에서 컨테이너를 불러서 화면에 노출함.
