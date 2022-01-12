@@ -9,3 +9,8 @@
 5. 컨테이너를 해당하는 counterContainer 컴포넌트를 제작함.
 
 6. app.js에서 컨테이너를 불러서 화면에 노출함.
+
+
+7. redux - middle ware 를 적용함
+
+8. redux-logger 적용
